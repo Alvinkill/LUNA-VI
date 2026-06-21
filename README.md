@@ -1,4 +1,4 @@
-# LUNA-VI
+# LUNA-V1
 
 A WhatsApp bot developed by ROSEAN-X. This repository is available for forking; please note that deployment is currently limited to bot hosting services or similar platforms.
 
